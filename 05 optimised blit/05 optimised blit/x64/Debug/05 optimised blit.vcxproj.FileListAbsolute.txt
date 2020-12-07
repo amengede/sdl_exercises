@@ -1,0 +1,2 @@
+C:\dev\cpp\05 optimised blit\05 optimised blit\x64\Debug\05 optimised blit.exe
+C:\dev\cpp\05 optimised blit\05 optimised blit\x64\Debug\05 optimised blit.pdb

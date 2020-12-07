@@ -1,0 +1,2 @@
+C:\dev\cpp\04 keys\x64\Debug\04 keys.exe
+C:\dev\cpp\04 keys\x64\Debug\04 keys.pdb

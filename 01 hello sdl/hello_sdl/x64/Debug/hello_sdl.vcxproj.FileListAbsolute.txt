@@ -1,0 +1,2 @@
+C:\dev\cpp\01 hello sdl\hello_sdl\x64\Debug\hello_sdl.exe
+C:\dev\cpp\01 hello sdl\hello_sdl\x64\Debug\hello_sdl.pdb
